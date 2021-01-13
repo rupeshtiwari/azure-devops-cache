@@ -4,7 +4,7 @@
   "description": "caching azure devops npm install",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Success: Build Passed\" && exit 0"
+    "build": "node index.js"
   },
   "keywords": [
     "azure",
